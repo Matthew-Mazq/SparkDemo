@@ -9,5 +9,6 @@ public class sparkdemo1 {
         System.out.println("hello,doris");
         System.out.println("hello,kafka");
         System.out.println("hello,flume");
+        System.out.println("pull,test");
     }
 }
