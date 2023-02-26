@@ -7,5 +7,6 @@ public class sparkdemo1 {
         System.out.println("hello,hive");
         System.out.println("hello,flink");
         System.out.println("hello,doris");
+        System.out.println("hello,kafka");
     }
 }
